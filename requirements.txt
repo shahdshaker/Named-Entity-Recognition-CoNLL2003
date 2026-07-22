@@ -1,0 +1,13 @@
+numpy<2.0
+scipy
+pandas
+matplotlib
+scikit-learn
+tensorflow>=2.16,<2.18
+tf-keras
+torch
+transformers>=4.40
+datasets
+seqeval
+gensim
+gradio
