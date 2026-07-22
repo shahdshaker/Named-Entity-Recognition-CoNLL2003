@@ -1,0 +1,6 @@
+{
+  "model": "Transformer_DistilBERT",
+  "precision": 0.8838541666666667,
+  "recall": 0.9013810198300283,
+  "f1": 0.8925315568022439
+}
